@@ -6,3 +6,4 @@ limone
 mela
 banana
 patate
+pasta
