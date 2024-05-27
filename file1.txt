@@ -7,3 +7,4 @@ mela
 banana
 patate
 pasta
+lattuga
