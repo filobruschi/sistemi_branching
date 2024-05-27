@@ -2,3 +2,5 @@ acqua
 olio
 sale
 pepe
+limone
+banana
